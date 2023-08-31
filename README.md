@@ -1,2 +1,1 @@
-# wineQualityPrediction
-Machine Learning model to predict the quality of wine using linear regression
+# Machine Learning model to predict the quality of wine using linear regression
